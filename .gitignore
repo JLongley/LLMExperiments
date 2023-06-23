@@ -1,0 +1,8 @@
+.env
+storage/
+.DS_Store
+dist/
+*.cache
+
+### Code ###
+.vscode/
